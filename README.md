@@ -19,11 +19,11 @@ This is the documentation for the **NestJS backend** of the full-stack applicati
 
 1.  Clone the repository (if not already cloned):
 
-        git clone https://github.com/your-username/your-repo.git
+        git clone https://github.com/AhmedAyman-96/Auth-Nestjs
 
-2.  Navigate to the `server` directory:
+2.  Navigate to the `Auth-Nestjs` directory:
 
-        cd server
+        cd Auth-Nestjs
 
 3.  Install dependencies:
 
@@ -31,7 +31,7 @@ This is the documentation for the **NestJS backend** of the full-stack applicati
 
 ## Environment Variables
 
-Create a `.env` file in the `server` directory with the following variables:
+Create a `.env` file in the `Auth-Nestjs` directory with the following variables:
 
 \# Server .env
 JWT_SECRET=your_jwt_secret_key
