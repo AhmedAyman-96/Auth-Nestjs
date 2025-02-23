@@ -8,10 +8,11 @@ This is the documentation for the **NestJS backend** of the full-stack applicati
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 - **API Documentation**: Swagger
+- **API Limiter**: Nestjs Throttler
 
 ## Prerequisites
 
-- Node.js (v16 or higher)
+- Node.js (v18 or higher)
 - MongoDB (running locally or remotely)
 - Git
 
